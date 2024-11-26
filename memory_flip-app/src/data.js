@@ -1,4 +1,5 @@
 export const data = [
+  //initial data
   {
     id: 0,
     imgUrl: "./logos/react.svg",
