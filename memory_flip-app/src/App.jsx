@@ -1,6 +1,5 @@
 import { data } from './data';
 
-
 function App() {
   return (
     <section className={'container'}>
